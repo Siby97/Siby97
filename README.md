@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Siby97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Siby97 i'am 26year old
+- 👀 I’m interested in marketing 
+- 🌱 I’m currently learning myself
+- 💞️ I’m looking to collaborate on happines
+- 📫 How to reach me beleive me
 
 <!---
 Siby97/Siby97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
